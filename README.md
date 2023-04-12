@@ -306,17 +306,6 @@ these lines at the bottom:
         ],
     ],
 ```
+## Link
+https://join.skype.com/invite/puo9lhuCrnbs
 
-## License
-
-The Aimeos Laravel package is licensed under the terms of the MIT license and
-is available for free.
-
-## Links
-
-* [Web site](https://aimeos.org/Laravel)
-* [Documentation](https://aimeos.org/docs/Laravel)
-* [Forum](https://aimeos.org/help/laravel-package-f18/)
-* [Issue tracker](https://github.com/aimeos/aimeos-laravel/issues)
-* [Composer packages](https://packagist.org/packages/aimeos/aimeos-laravel)
-* [Source code](https://github.com/aimeos/aimeos-laravel)
