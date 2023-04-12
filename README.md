@@ -275,11 +275,6 @@ Route::group(['middleware' => ['web']], function () {
 
 For multi-vendor setups, read the article about [multiple shops](https://aimeos.org/docs/latest/laravel/customize/#multiple-shops).
 
-This will display the Aimeos catalog home component on the home page you you get a
-nice looking shop home page which will look like this:
-
-[![Aimeos frontend](https://aimeos.org/fileadmin/aimeos.org/images/aimeos-frontend.jpg?2021.07)](http://127.0.0.1:8000/shop)
-
 ### Backend
 
 If you've still started the internal PHP web server (`php artisan serve`)
